@@ -1,0 +1,6 @@
+git config --global user.name "Fulano de Tal"
+git config --global user.email fulanodetal@exemplo.br
+git init
+git add (nome do arquivo) ou .( o ponto para adicionar todos os pendentes)
+git commit -m para fazer um commit com mensagem 
+para dar o Ctrl+V aperte insert
