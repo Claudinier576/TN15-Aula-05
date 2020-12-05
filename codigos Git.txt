@@ -4,4 +4,5 @@ git init
 git add (nome do arquivo) ou .( o ponto para adicionar todos os pendentes)
 git commit -m para fazer um commit com mensagem 
 para dar o Ctrl+V aperte insert
-git 
+git checkout nome da branch
+git merge ...
